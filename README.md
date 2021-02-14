@@ -16,7 +16,7 @@ Plataforma para ex alunos da instituição, sendo desenvolvida em React com API 
 ## 💻 Web
 
 <p align="center">
-  <img src="./screens/web_club.png" width="350" title="hover text">
+  <img src="./screens/web_club.png"  title="Club Cat">
 </p>
 
 <!-- ![SignIn Page](./screen/web_club.png) -->
@@ -25,7 +25,7 @@ Plataforma para ex alunos da instituição, sendo desenvolvida em React com API 
 
 <!-- ![SignIn Page](./screen/web_club.png) -->
 <p align="center">
-  <img src="./screens/club_mobile.png" width="350" title="hover text">
+  <img src="./screens/club_mobile.png" width="350" title="Club Cat">
 </p>
 
 
