@@ -15,11 +15,18 @@ Plataforma para ex alunos da instituição, sendo desenvolvida em React com API 
 
 ## 💻 Web
 
-![SignIn Page](./screen/web_club.png)
+<p align="center">
+  <img src="./screens/web_club.png" width="350" title="hover text">
+</p>
+
+<!-- ![SignIn Page](./screen/web_club.png) -->
 
 ## 📱 Mobile
 
-![SignIn Page](./screen/web_club.png)
+<!-- ![SignIn Page](./screen/web_club.png) -->
+<p align="center">
+  <img src="./screens/club_mobile.png" width="350" title="hover text">
+</p>
 
 
 ## 🛠 Tecnologias
