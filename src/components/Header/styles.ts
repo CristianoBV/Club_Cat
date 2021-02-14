@@ -51,6 +51,10 @@ export const Container = styled.header`
       max-width: 1100px;
     }
 
+    .top-bar-container > img {
+      height: 5rem;
+    }
+
     .header-content {
       flex: 1;
       max-width: 740px;

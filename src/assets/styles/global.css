@@ -4,6 +4,7 @@
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
     --color-primary: #179ECF;
+    --color-primary-dark-button: #137497;
     --color-primary-dark: #774DD6;
     --color-primary-darker: #6842C2;
     --color-secundary: #04D361;
@@ -47,6 +48,7 @@ input,
 button,
 textarea {
     font: 500 1.6rem Poppins;
+    color: var(--color-text-base);
 }
 
 .container {

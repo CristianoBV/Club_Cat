@@ -1,8 +1,8 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import { Container } from './styles';
 import Header from '../../components/Header';
+import ServiceItem from '../../components/Serviceitem';
 
 function ServiceList() {
   return (
@@ -23,6 +23,7 @@ function ServiceList() {
           </div>
         </form>
       </Header>
+      <ServiceItem />
     </Container>
   );
 }
